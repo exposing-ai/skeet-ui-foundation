@@ -1,2 +1,9 @@
-# skeet-ui-foundation
-Beginner-friendly starter for clean skeet.cc-inspired draggable UI in three.js, HTML, CSS, JS, and Python. No CI/CD, no Actions. Foundation repo for deep reproducibility, real-time Copilot agent setup, plug-play for future UI projects.
+# README.md
+
+## skeet-ui-foundation
+
+A reproducible, beginner-friendly foundation for skeet.cc-inspired draggable UI projects using three.js, HTML, CSS, JS, and Python. No CI/CD, no Actions—just plug and play on localhost with Copilot AI support.
+
+- Modular, agentic audit-grade repo
+- Real-time onboarding instructions
+- RGB & tabbed cyberpunk UI reference (skeet.cc aesthetic)
